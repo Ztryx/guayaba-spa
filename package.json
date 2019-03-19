@@ -2,7 +2,7 @@
   "name": "address-book",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ztryx.github.io/address-book-react",
+  "homepage": "https://ztryx.github.io/guayaba-spa/",
   "dependencies": {
     "@material-ui/core": "^3.9.2",
     "country-list": "^2.1.0",

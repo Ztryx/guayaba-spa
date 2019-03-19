@@ -1,0 +1,7 @@
+.dialogError {
+    border-top: 10px solid #d32f2f;
+}
+
+.dialogSuccess {
+    border-top: 10px solid #689f38;
+}

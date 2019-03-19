@@ -1,0 +1,57 @@
+input[type=text].valid {
+    border: 2px solid #B2FF59;
+}
+
+input[type=text].no-valid {
+    border: 2px solid #FF6E40;
+}
+
+.listContent {
+    padding: 25px 0;
+}
+
+.formElement {
+    margin: 25px auto;
+}
+
+.selectElement {
+    margin-bottom: 75px;
+}
+
+button.formElement {
+    margin-bottom: 15px;
+}
+
+.addressBookCard {
+    margin-bottom: 20px;
+}
+
+.addressFormContainer {
+    border-top: 15px solid #212121;
+    border-radius: 1%;
+}
+
+.addressListContainer {
+    border-top: 15px solid #5D4037;
+    border-radius: 1%;
+}
+
+.formContent h2.cardTitleHeader {
+    color: #212121;
+    border-bottom: 5px solid #21212140;
+    margin-bottom: 20px;
+    padding-bottom: 15px;
+}
+
+button.personalizedButton {
+    font-weight: bold;
+}
+
+.addressTable>thead tr th {
+    font-size: 1.25em;
+}
+
+.addressTable>tbody tr th p,
+.addressTable>tbody tr td p{
+    font-size: 1.15em;
+}
